@@ -5,7 +5,12 @@
     }
 
    public void logowanie() {
+	 HEAD
         System.out.println("Podaj email z gmaila");
+
+    }
+
+        System.out.println("Podaj nazwę użytkownika Microsoft");
+	 klient102
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
